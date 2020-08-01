@@ -1,5 +1,5 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                                                                ProxyParser
+                                                              ProxyParser
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This script is based on data from the site https://www.sslproxies.org/ creates a file with a list of active proxy servers.
@@ -9,4 +9,5 @@ Setup:
 1) git clone https://github.com/KomogorovKirill/ProxyParser.git
 2) cd ProxyParser
 3) chmod +x ProxyParser.py
-3) ./ProxyParser.py
+4) pip install -r requirement.txt
+5) ./ProxyParser.py
