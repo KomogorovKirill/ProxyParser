@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 # -*- utf-8 -*-
 
 from bs4 import BeautifulSoup
