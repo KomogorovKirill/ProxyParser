@@ -7,5 +7,6 @@ After executing the script, the file will appear "ListOfProxyServers.txt", which
 
 Setup:
 1) git clone https://github.com/KomogorovKirill/ProxyParser.git
-2) cd /
+2) cd ProxyParser
+3) chmod +x ProxyParser.py
 3) ./ProxyParser.py
