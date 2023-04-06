@@ -34,5 +34,4 @@ with open("ListOfProxyServers.txt", "w", encoding="utf-8") as f:
 		if i == length:
 			f.write(proxy_list[i])
 		f.write(proxy_list[i] + "\n")
-	f.close()
 print(colored("File created!", 'green'))
